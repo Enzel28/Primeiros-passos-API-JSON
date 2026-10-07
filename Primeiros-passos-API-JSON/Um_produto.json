@@ -1,0 +1,9 @@
+{
+    "produto": {
+        "nome": "celular",
+        "preço": 904.60,
+        "quantidade": 20,
+        "disponivel": 10
+        
+    }
+}

@@ -3,6 +3,10 @@
         "título": "Devolta Para o Futuro",
         "ano": 1985,
         "diretor": "Robert Zemeckis",
-        "genêros": ["ficção cientifica", "comédia", "aventura"]
+        "genêros": ["ficção cientifica", "comédia", "aventura"],
+        "trilha": {
+            "compositor": "Alan Silvestri",
+            "idade": "76 anos"
+        }
     }
 }
