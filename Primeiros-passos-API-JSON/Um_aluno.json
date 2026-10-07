@@ -3,6 +3,11 @@
         "nome": "Nicolai",
         "idade": 16,
         "notas": 5.6,
-        "aprovado": false
+        "aprovado": false,
+        "formação": {
+            "escola": "Senai",
+            "turma": "DS1SESI",
+        "dataformação": null
+        }
     }
 }

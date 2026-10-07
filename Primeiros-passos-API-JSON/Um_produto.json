@@ -3,7 +3,11 @@
         "nome": "celular",
         "preço": 904.60,
         "quantidade": 20,
-        "disponivel": 10
-        
+        "disponivel": 10,
+        "loja": {
+            "tipo": "fisica",
+            "local": "Brasil",
+        "dataabertura": null
+        }    
     }
 }

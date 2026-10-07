@@ -6,7 +6,8 @@
         "genêros": ["ficção cientifica", "comédia", "aventura"],
         "trilha": {
             "compositor": "Alan Silvestri",
-            "idade": "76 anos"
+            "idade": "76 anos",
+        "datafinal": null
         }
     }
 }
